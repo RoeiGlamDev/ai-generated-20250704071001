@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+}
+
+.bg-gold {
+  background-color: #ffd700;
+}
+
+.text-gold {
+  color: #ffd700;
+}
